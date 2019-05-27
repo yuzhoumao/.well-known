@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ymao
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yuzhoumao.github.io
+  * I am ymao (https://keybase.io/ymao) on keybase.
+  * I have a public key ASCG6Vvt5EiyfqN71nhUbd4ZhL-bzTwsNIehDZo3cuTT2Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012086e95bede448b27ea37bd678546dde1984bf9bcd3c2c3487a10d9a3772e4d3d80a",
+      "host": "keybase.io",
+      "kid": "012086e95bede448b27ea37bd678546dde1984bf9bcd3c2c3487a10d9a3772e4d3d80a",
+      "uid": "4576c9ccca4c188737440aea3ea8ad19",
+      "username": "ymao"
+    },
+    "merkle_root": {
+      "ctime": 1558968423,
+      "hash": "e6b7cc3f829493ef480df717cbbf467236d6aee0d593693c44a5d0b9135104581abfd1a15f3ae1c3839010dd6128c1b0f7a0ac7cd3317af2ae660f3204a39f05",
+      "hash_meta": "00b0ce9b88b7b67a3933be8dd0f439d83876dc718b049a525d3d93807c24a73d",
+      "seqno": 5455822
+    },
+    "service": {
+      "entropy": "r6Po/Bq3KwIED5R1/OYMYRve",
+      "hostname": "yuzhoumao.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1558968447,
+  "expire_in": 504576000,
+  "prev": "89c346042e5eb0529b7398d1100cf3923dba2b32525b83b140539ccce2695312",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghulb7eRIsn6je9Z4VG3eGYS/m808LDSHoQ2aN3Lk09gKp3BheWxvYWTESpcCBcQgicNGBC5esFKbc5jREAzzkj26KzJSW4OxQFOczOJpUxLEIFMtpgBdbgf/m192gDSaAizoxMrzkZ3Zv3XQQ7Lj39SbAgHCo3NpZ8RARC5J6O1GZmcGwpWAcKTpjEshQeHAHFYHSOjB5o1aeoXAR3PXadBwVUFGgQZzewIuOi6E+P7eCrPTz8u2C5YBBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFJH88yFSgXpl589ykO6/yfcy1tYqx1Py/d0PxdEkB0uo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ymao
+
+==================================================================
